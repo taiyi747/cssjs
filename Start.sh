@@ -1,1 +1,0 @@
-java -jar nukkit-1.16.jar
